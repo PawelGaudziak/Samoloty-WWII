@@ -1,0 +1,7 @@
+body {background-color: burlywood; margin-left: 5%; margin-right: 30% }
+h1   {color: black; margin-left: 5%; margin-right: 30%}
+h2   {color: brown; margin-left: 5%; margin-right: 30%}
+p {margin-left: 5%; margin-right: 10%}
+img {margin-left: 5%} 
+ul {margin-left: 5%} 
+<style>img {border: dashed; color: black} </style>
